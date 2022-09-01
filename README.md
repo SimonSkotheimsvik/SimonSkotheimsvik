@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonSkotheimsvik, Senior Cloud Consultant at CloudWay.
-- 👀 I’m interested in automating the modern workplace based on Microsoft technology as a Microsoft 365 specialist.
+- 👀 As a Microsoft 365 specialist I’m interested in automating the modern workplace based on Microsoft technology.
 - 🌱 I’m currently learning bleading edge technology.
 - 💞️ I’m looking to collaborate on Microsoft cloud solutions.
 - 📫 Reach me on twitter SSkotheimsvik
