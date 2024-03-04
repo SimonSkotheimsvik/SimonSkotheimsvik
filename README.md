@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonSkotheimsvik, Senior Cloud Consultant at CloudWay.
+- 👋 Hi, I’m @SimonSkotheimsvik, Microsoft MVP and Senior Cloud Consultant at CloudWay.
 - 👀 As a Microsoft 365 specialist I’m interested in automating the modern workplace based on Microsoft technology.
 - 🌱 I’m currently learning and breathing bleading edge Microsoft technology with a passion for enterprise mobility.
 - 💞️ I'm looking for like-minded people to collaborate on Microsoft's cloud solutions.
